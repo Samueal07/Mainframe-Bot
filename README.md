@@ -1,4 +1,4 @@
-# Llama2-chat-with-Mainframe-Knowledge
+# Mainframe Bot
 
 A comprehensive chatbot which solves your queries related to mainframe
 
