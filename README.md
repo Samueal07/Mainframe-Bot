@@ -21,8 +21,8 @@ Python 3.9 or later installed. Earlier versions of python may not compile.
 1. Fork this repository and create a codespace in GitHub as I showed you in the youtube video OR Clone it locally.
 
    ```
-   git clone https://github.com/sudarshan-koirala/llama2-chat-with-documents.git
-   cd llama2-chat-with-documents
+   git clone https://github.com/Samueal07/Mainframe-Bot
+   cd Mainframe-Bot
    ```
 
 2. Rename example.env to .env with `cp example.env .env`and input the HuggingfaceHub API token as follows. Get HuggingfaceHub API key from this [URL](https://huggingface.co/settings/tokens). You need to create an account in Huggingface webiste if you haven't already.
