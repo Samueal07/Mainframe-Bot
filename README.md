@@ -1,6 +1,12 @@
 # Mainframe Bot
 
-A comprehensive chatbot which solves your queries related to mainframe
+A comprehensive GEN AI chatbot which solves your queries related to mainframe!!
+![img5](https://github.com/Samueal07/Mainframe-Bot/assets/99087302/0b5ee1a9-5f0b-431c-8068-faa1c32ae5cc)
+
+![img2](https://github.com/Samueal07/Mainframe-Bot/assets/99087302/8c18ae4f-c494-409b-815e-c5e3d4a2241b)
+![img1](https://github.com/Samueal07/Mainframe-Bot/assets/99087302/ee9ceb2b-3a5f-443b-8cc8-3bca9398a586)
+![img4](https://github.com/Samueal07/Mainframe-Bot/assets/99087302/166ce059-5549-4ec7-909d-735bc13ff451)
+
 
 ### Chat with Mainframe Bot 🚀
 
