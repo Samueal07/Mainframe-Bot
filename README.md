@@ -1,5 +1,8 @@
 # Mainframe Bot
 
+### Motivation
+![image](https://github.com/Samueal07/Mainframe-Bot/assets/99087302/5737932a-a2dc-4c21-9ee5-fde8ba086cf1)
+
 A comprehensive GEN AI chatbot which solves your queries related to mainframe!!
 ![img5](https://github.com/Samueal07/Mainframe-Bot/assets/99087302/0b5ee1a9-5f0b-431c-8068-faa1c32ae5cc)
 
